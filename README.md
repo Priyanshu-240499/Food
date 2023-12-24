@@ -1,1 +1,1 @@
-https://github.com/FaizAnsari477/Food
+https://faizansari477.github.io/Food/
